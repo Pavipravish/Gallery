@@ -1,5 +1,7 @@
 # Ex.08 Design of Interactive Image Gallery
 # Date:6/5/2025
+# NAME: PRAVISH.J
+# REF NO 212224040249
 # AIM:
 To design a web application for an inteactive image gallery with minimum five images.
 
